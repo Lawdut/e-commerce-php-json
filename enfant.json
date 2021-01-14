@@ -1,0 +1,9 @@
+[{
+"enfant" : [
+
+    {"nom_produit" : "Lego" , "prix" : "25.00", "photo" : "img8.jpg"},
+    {"nom_produit" : "Livre" , "prix" : "20.00", "photo" : "img9.jpg"},
+    {"nom_produit" : "Veilleuse" , "prix" : "22.00", "photo" : "img10.jpg"},
+    {"nom_produit" : "Barbie" , "prix" : "17.00", "photo" : "img11.jpg"}
+]
+}]

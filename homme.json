@@ -1,0 +1,10 @@
+[{
+"homme": [
+
+    {"nom_produit" : "Rasoir" , "prix" : "25.00" , "photo":"img0.jpg"},
+    {"nom_produit" : "Perceuse" , "prix" : "50.00", "photo" : "img1.jpg"},
+    {"nom_produit" : "Jeans" , "prix" : "120.00", "photo" : "img2.jpg"},
+    {"nom_produit" : "Imprimante 3D" , "prix" : "250.00", "photo" : "img3.jpg"}
+    ]
+
+}]
